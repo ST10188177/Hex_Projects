@@ -1,4 +1,4 @@
-Hex_Projects
+# Hex_Projects
 Welcome to Hex_Projects — a collection of work completed during a Web Development internship program.
 
 📚 About the Internship
